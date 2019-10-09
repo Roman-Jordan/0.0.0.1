@@ -1,2 +1,3 @@
-# 0.0.0.1
-A fun project for Charlie
+# Getting Started
+1. First, you will need to install expo cli using `npm install expo-cli --global`
+
